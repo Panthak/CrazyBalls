@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{40891AC4-97DC-4F2C-E2D1-B92765F2B476}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="42" Column="42" />
+      <File FileName="Assets/Scripts/Score.cs" Line="10" Column="43" />
+      <File FileName="Assets/Scripts/LoadLevel.cs" Line="23" Column="8" />
+      <File FileName="Assets/Scripts/Credits.cs" Line="26" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Android Test 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LoadLevel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1354aa2-951e-47fa-8b1f-41f3d02e74a1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
